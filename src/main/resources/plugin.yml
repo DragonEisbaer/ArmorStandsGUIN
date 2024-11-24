@@ -1,0 +1,10 @@
+name: ArmorStandsGUI
+version: '${project.version}'
+main: me.dragoneisbaer.armorstandsgui.ArmorStandsGUI
+api-version: 1.17
+authors: [ DragonEisbaer ]
+description: Gives your Armor Stands the Ability to have a GUI
+commands:
+  agui:
+    description: Opens a Menu.
+    usage: /<command>
